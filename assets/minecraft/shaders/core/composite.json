@@ -1,0 +1,7 @@
+{
+  "targets": [
+    "composite"
+  ],
+  "program": "composite",
+  "description": "Composite pass for reflection integration"
+}
